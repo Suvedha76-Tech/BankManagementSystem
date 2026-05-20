@@ -1,0 +1,2 @@
+# BankManagementSystem
+An Advanced Bank Management System developed using C++ that simulates real-world banking operations such as account creation, deposits, withdrawals, money transfer, balance inquiry, mini statements, and interest calculation. The project uses Object Oriented Programming (OOP) concepts along with binary file handling to securely store account information and transaction history. It is a console-based application designed to improve understanding of banking workflows, transaction management, and file handling in C++.
